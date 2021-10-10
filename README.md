@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![ileFix' GitHub stats](https://github-readme-stats.vercel.app/api?username=ileFixDev&theme=dark)](https://github.com/ileFixDev/ileFixDev)
+https://media.discordapp.net/attachments/573812682390634496/893572577887412276/image0.jpg?width=1664&height=936
