@@ -16,6 +16,8 @@ __Languages__
 
 ✔️ Golang
 ✔️ Java
+✔️ C#
+✔️ C / C++
 ✔️ Javascript / Node.js / Typescript
 
 ❌ Python
