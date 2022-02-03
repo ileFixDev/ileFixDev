@@ -5,7 +5,7 @@
 
 
 _Development_ of private bots and tools!
-- [Copped Meta](https://twitter.com/coppedmeta)
+- [Copped Meta](https://twitter.com/coppedsolana)
 - Copped AIO
 
 _Development_ of public tools and products!
