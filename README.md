@@ -19,5 +19,3 @@ __Languages__
 ✔️ C#
 ✔️ C / C++
 ✔️ Javascript / Node.js / Typescript
-
-❌ Python
