@@ -6,11 +6,10 @@
 
 _Development_ of private bots and tools!
 - [Copped Solana](https://twitter.com/coppedsolana)
-- Copped AIO
 
 _Development_ of public tools and products!
 - [Choizaar](https://choizaar.com)
-- [Nuntify](https://nuntify.com)
+- [Movels Marketplace](https://twitter.com/movelsmarket)
 
 __Languages__
 
