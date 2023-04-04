@@ -5,7 +5,7 @@
 
 
 _Development_ of private bots and tools!
-- [Copped AIO]() *soon*
+- [Copped AIO](https://twitter.com/ileFixDev) *soon*
 
 _Development_ of public tools and products!
 - [Choizaar](https://choizaar.com) *currently not available*
