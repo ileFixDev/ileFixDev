@@ -19,3 +19,5 @@ __Languages__
 ✔️ Java
 ✔️ C#
 ✔️ C / C++
+
+[![wakatime](https://wakatime.com/badge/user/018ba8b7-cb55-4e77-895b-944c92a13477.svg)](https://wakatime.com/@018ba8b7-cb55-4e77-895b-944c92a13477)
