@@ -1,5 +1,5 @@
 ### Entrepreneur - Developer - Artist
-🌱 Owner of [Copped Inc.](https://github.com/copped-inc)<br>👯 Owner of [Infinitare](https://github.com/infinitare)<br>💬 Work on private tools and projects
+👯 Owner of [Infinitare](https://github.com/infinitare)<br>🌱 prev. Owner of [Copped Inc.](https://github.com/copped-inc)<br>💬 Work on private tools and projects
 
 __Languages__
 
